@@ -1,7 +1,5 @@
 
 ---
-
-```markdown
 # ✈️ British Airways Review Analysis
 
 This project scrapes customer reviews of British Airways from [Skytrax](https://www.airlinequality.com), cleans the text data, and performs basic Natural Language Processing (NLP) analysis including word clouds and sentiment analysis.
